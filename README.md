@@ -100,8 +100,6 @@ Amongst many things that an online site requires the most important is a databas
 
 ### 3.  Relational Database Schema - e commerce 
 ![Relational Schema_Diagram](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational_Schema-Screenshot.jpg)
-For more clear view, click here
-[Relational Schema Pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational%20Database%20Schema2.pdf)
 
 ### 4. Entities and their Attributes
 
